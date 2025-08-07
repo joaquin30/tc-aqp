@@ -1,4 +1,4 @@
-[Global]
+desafío[Global]
 TimeZone=America/Lima
 ConfigExpirationTime=2025-08-31T00:00:00
 AvailableKeyboardLayouts=latam|us|es|dvorak|
@@ -27,4 +27,4 @@ Bookmarks={Contest^https://tcucsp2025.contest.codeforces.com/}
 [Event-Times]
 
 [Contest-Times]
-2025-08-06T13:14:00 2025-08-06T18:15:00
+2025-08-07T13:14:00 2025-08-07T18:15:00
