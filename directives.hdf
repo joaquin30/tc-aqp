@@ -1,6 +1,6 @@
 [Global]
 TimeZone=America/Lima
-ConfigExpirationTime=2025-08-31T00:00:00
+ConfigExpirationTime=2025-12-31T00:00:00
 AvailableKeyboardLayouts=latam|us|es|dvorak|
 DefaultKeyboardLayout=latam
 EventConfig=false
@@ -9,8 +9,8 @@ ContestConfig=true
 [Always]
 AllowedWebsites=all
 AllowUsbStorage=true
-AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
-Bookmarks={Codeforces^https://codeforces.com/}|{Grupo_TC_UCSP^https://codeforces.com/group/fWl5KjwMwX/contests/}
+AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|debuggers/gdb|programming/vsc-cpptools
+Bookmarks={RPC^https://redprogramacioncompetitiva.com/contests/2025/13/}|{Codeforces^https://codeforces.com/}|{Grupo TC UCSP^https://codeforces.com/group/fWl5KjwMwX/contests/}|{Contest TC UCSP^https://tcucsp2025.contest.codeforces.com/}
 
 [Event]
 AllowedWebsites=all
@@ -21,10 +21,9 @@ Bookmarks={Codeforces^https://codeforces.com/}
 [Contest]
 AllowedWebsites=tcucsp2025.contest.codeforces.com|assets.codeforces.com|cloudflare.com
 AllowUsbStorage=false
-AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|debuggers/gdb
-Bookmarks={Contest^https://tcucsp2025.contest.codeforces.com/}
+AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|debuggers/gdb|programming/vsc-cpptools
+Bookmarks={RPC^https://redprogramacioncompetitiva.com/contests/2025/13/}|{Codeforces^https://codeforces.com/}|{Grupo TC UCSP^https://codeforces.com/group/fWl5KjwMwX/contests/}|{Contest TC UCSP^https://tcucsp2025.contest.codeforces.com/}
 
 [Event-Times]
 
 [Contest-Times]
-2025-08-09T13:19:00 2025-08-09T18:20:00
