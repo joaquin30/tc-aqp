@@ -9,7 +9,7 @@ ContestConfig=true
 [Always]
 AllowedWebsites=all
 AllowUsbStorage=true
-AvailableSoftware=internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-vscodevim|programming/vsc-clangd|debuggers/gdb
+AvailableSoftware=internet/chromiun|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-cpptools|debuggers/gdb
 Bookmarks={Codeforces^https://codeforces.com/}
 
 [Event]
@@ -19,10 +19,10 @@ AllowUsbStorage=true
 [Contest]
 AllowedWebsites=codeforces.com|assets.codeforces.com|cloudflare.com
 AllowUsbStorage=false
-AvailableSoftware=internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-vscodevim|programming/vsc-clangd|debuggers/gdb
+AvailableSoftware=internet/chromiun|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-cpptools|debuggers/gdb
 Bookmarks={Codeforces^https://codeforces.com/}
 
 [Event-Times]
 
 [Contest-Times]
-2026-05-23T13:00:00 2026-05-23T18:31:00
+2026-05-23T13:19:00 2026-05-23T18:31:00
