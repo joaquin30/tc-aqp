@@ -19,7 +19,7 @@ AllowedWebsites=all
 AllowUsbStorage=true
 
 [Contest]
-AllowedWebsites=codeforces.com|assets.codeforces.com|cloudflare.com
+AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=internet/chromium|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-cpptools|debuggers/gdb
 Bookmarks={Maratona Femenina de Programación^https://codeforces.com/group/hRSGIe7nvK/contests}
