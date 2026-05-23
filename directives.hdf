@@ -10,7 +10,7 @@ ContestConfig=true
 AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=internet/chromiun|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-cpptools|debuggers/gdb
-Bookmarks={Codeforces^https://codeforces.com/}
+Bookmarks={Codeforces^https://codeforces.com/}|{Maratona Femenina de Programación^https://codeforces.com/group/hRSGIe7nvK/contests}
 
 [Event]
 AllowedWebsites=all
@@ -20,7 +20,7 @@ AllowUsbStorage=true
 AllowedWebsites=codeforces.com|assets.codeforces.com|cloudflare.com
 AllowUsbStorage=false
 AvailableSoftware=internet/chromiun|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-cpptools|debuggers/gdb
-Bookmarks={Codeforces^https://codeforces.com/}
+Bookmarks={Codeforces^https://codeforces.com/}|{Maratona Femenina de Programación^https://codeforces.com/group/hRSGIe7nvK/contests}
 
 [Event-Times]
 
