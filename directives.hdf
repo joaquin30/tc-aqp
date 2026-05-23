@@ -20,7 +20,7 @@ AllowUsbStorage=true
 
 [Contest]
 AllowedWebsites=codeforces.com|assets.codeforces.com|cloudflare.com
-AllowUsbStorage=false
+AllowUsbStorage=true
 AvailableSoftware=internet/chromium|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-cpptools|debuggers/gdb
 Bookmarks={Maratona Femenina de Programación^https://codeforces.com/group/hRSGIe7nvK/contests}
 Wallpaper=https://raw.githubusercontent.com/joaquin30/tc-aqp/refs/heads/main/Wallpaper-ES-MFP.jpeg
