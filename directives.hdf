@@ -10,7 +10,7 @@ ContestConfig=true
 AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=internet/chromium|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-cpptools|debuggers/gdb
-Bookmarks={Maratona Femenina de Programación^https://codeforces.com/group/hRSGIe7nvK/contests}
+Bookmarks={Maratona Femenina de Programación^https://codeforces.com/group/hRSGIe7nvK/contests}|{TC UCSP 2025^tcucsp2025.contest.codeforces.com}
 Wallpaper=https://raw.githubusercontent.com/joaquin30/tc-aqp/refs/heads/main/Wallpaper-ES-MFP.jpeg
 WallpaperSha256=69c8e649706a73eaae21ed6716ebcfeb053d24bb3068d05333d61826b280d5ad
 
@@ -19,14 +19,14 @@ AllowedWebsites=all
 AllowUsbStorage=true
 
 [Contest]
-AllowedWebsites=all
-AllowUsbStorage=true
+AllowedWebsites=tcucsp2025.contest.codeforces.com|assets.codeforces.com|cloudflare.com
+AllowUsbStorage=false
 AvailableSoftware=internet/chromium|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-cpptools|debuggers/gdb
-Bookmarks={Maratona Femenina de Programación^https://codeforces.com/group/hRSGIe7nvK/contests}
+Bookmarks={Maratona Femenina de Programación^https://codeforces.com/group/hRSGIe7nvK/contests}|{TC UCSP 2025^tcucsp2025.contest.codeforces.com}
 Wallpaper=https://raw.githubusercontent.com/joaquin30/tc-aqp/refs/heads/main/Wallpaper-ES-MFP.jpeg
 WallpaperSha256=69c8e649706a73eaae21ed6716ebcfeb053d24bb3068d05333d61826b280d5ad
 
 [Event-Times]
 
 [Contest-Times]
-2026-05-23T13:19:00 2026-05-23T18:31:00
+2026-05-25T13:00:00 2026-05-25T14:00:00
